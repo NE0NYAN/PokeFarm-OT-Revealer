@@ -1,12 +1,11 @@
 // ==UserScript==
 // @name         PokéFarm Original Trainer Revealer
-// @namespace    https://github.com/Vanyar92 & https://github.com/NE0NYAN
-// @author       Vanyar & NE0NYAN
-// @homepageURL  https://github.com/NE0NYAN/pfq-small-addons
-// @downloadURL  https://raw.githubusercontent.com/NE0NYAN/pfq-small-addons/refs/heads/main/pfq-OT-revealer.js
-// @updateURL    https://raw.githubusercontent.com/NE0NYAN/pfq-small-addons/refs/heads/main/pfq-OT-revealer.js
+// @author       NE0NYAN
+// @homepageURL  https://github.com/NE0NYAN/PokeFarm-OT-Revealer
+// @downloadURL  https://raw.githubusercontent.com/NE0NYAN/PokeFarm-OT-Revealer/refs/heads/main/PFQ-OT-Revealer.js
+// @updateURL    https://raw.githubusercontent.com/NE0NYAN/PokeFarm-OT-Revealer/refs/heads/main/PFQ-OT-Revealer.js
 // @description  Adds the Original Trainer (OT) to a Pokémon's Summary Page
-// @version      2.0.0
+// @version      1.0.0
 // @match        https://pokefarm.com/summary/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
 // ==/UserScript==
