@@ -1,4 +1,4 @@
-# PokeFarm Original Trainer (OT) Retriever
+# PokeFarm Original Trainer (OT) Revealer
 This is a userscript add-on designed for the browser game [PokeFarmQ](https://pokefarm.com).
 The script injects an HTML element into a Pokemon's Summary Page that identifies their Original Trainer (OT).
 
